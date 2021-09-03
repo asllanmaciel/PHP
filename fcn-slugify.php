@@ -26,3 +26,5 @@ function slugify($text)
 
   return $text;
 }
+
+//Outras aqui: https://qastack.com.br/programming/2955251/php-function-to-make-slug-url-string
